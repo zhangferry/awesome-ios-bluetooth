@@ -14,6 +14,7 @@
 * [ios蓝牙开发（三）app作为外设被连接的实现](http://liuyanwei.jumppo.com/2015/09/07/ios-BLE-3.html)
 * [ios蓝牙开发（四）BabyBluetooth蓝牙库介绍](http://liuyanwei.jumppo.com/2015/09/11/ios-BLE-4.html)
 * [对 BLE 外设（Peripheral）自动重连机制的逻辑梳理](http://muhlenxi.com/2017/07/07/About-Ble-Auto-Connecting/)
+* [详解大端模式和小端模式](https://blog.csdn.net/ce123_zhouwei/article/details/6971544)
 
 ## 蓝牙升级
 * [蓝牙固件升级](https://zhangferry.com/2016/03/10/bluetooth-ota-upgrade/)
